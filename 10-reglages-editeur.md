@@ -4,20 +4,40 @@ title: Réglages éditeur
 permalink: reglages-editeur.html
 ---
 
-Réglages utilisateur vs. réglages du workspace.
+## Les Réglages utilisateur
 
-#### Réglages Utilisateur (`settings.json` global)
+ Il existe deux types de réglages: 
+ 
+ - Réglages utilisateur (au niveau global)
+ - Réglages du workspace (espace de travail spécifique au projet)
+
+### Réglages utilisateur (global)
+
+Les réglages utilisateur au niveau global se trouvent dans un fichier nommé `settings.json`.
 
 - S'appliquent à **toutes tes instances VS Code**, quel que soit le projet ouvert
 - Stockés dans ton profil système (`~/Library/Application Support/Code/User/` sur macOS)
 - Idéal pour tes préférences personnelles : fonte, thème, raccourcis, comportement général
 
-#### Réglages Espace de travail (`.vscode/settings.json` à la racine du projet)
+### Réglages Espace de travail
+
+Les réglages propres à un Espace de travail (Workspace) se trouvent dans un fichier nommé `.vscode/settings.json` situé à la racine du projet.
 
 - S'appliquent **uniquement au projet courant**
 - Stockés dans le dossier du projet, donc **versionnables avec Git**
 - Écrasent les réglages Utilisateur en cas de conflit
 - Idéal pour les conventions d'équipe : *indentation, formateur de code, linter*
+
+### Modifier les réglages
+
+On peut modifier les réglages de deux façons:
+
+1. À travers l'interface visuelle.
+2. Dans le code d'un fichier JSON.
+
+Pour l'interface visuelle: faire Code > Préférences > Paramètres
+
+
 
 Pour modifier les Réglages Utilisateur dans settings.json : 
 
