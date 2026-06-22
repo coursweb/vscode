@@ -80,4 +80,3 @@ Les mêmes réglages en code:
 "html.hover.documentation": false,
 "less.hover.documentation": false,
 ```
-
