@@ -12,6 +12,8 @@ En faisant *Préférences > Thèmes > Thèmes de couleur* (Raccourci: `cmd+K cmd
 
 On peut les parcourir et prévisualiser le résultat. Ils sont répartis en thèmes clairs, thèmes sombres, et thèmes à contraste élevé.
 
+![](images/liste-themes-clairs.webp)
+
 On peut également parcourir la "Marketplace" qui propose une grande quantité de thèmes.
 
 Quelques exemples:
