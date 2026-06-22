@@ -70,7 +70,9 @@ Ces fenêtres modales peuvent être désactivées.
 
 Le réglage se trouve dans le profil utilisateur, on peut le trouver en cherchant avec le mot clé «Hover». Il y a des réglages spécifiques par language, comme HTML, CSS, LESS...
 
-Les réglages en code:
+![](images/hover-documentation.png)
+
+Les mêmes réglages en code:
 
 ```
 "html.hover.references": false,
