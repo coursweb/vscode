@@ -28,7 +28,7 @@ Windows or Linux: Ctrl+/
 Mac: ⇧⌘L  
 Windows or Linux: Ctrl+Shift+L
 
-## Bon à savoir
+## Bon à savoir
 
 La commande **Copier** (raccourci: cmd+C), si aucune sélection n'est active, va copier **la ligne entière** où se trouve le curseur.
 

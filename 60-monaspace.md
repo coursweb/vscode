@@ -4,7 +4,9 @@ title: Monaspace
 permalink: monaspace.html
 ---
 
-La fonte MonaSpace a été développée par Github. Elle permet d'appliquer diverses optimisations à l'affichage du code.
+La famille de fontes typographiques [Monaspace](https://monaspace.githubnext.com/) a été développée par Github. Elle permet d'appliquer diverses optimisations à l'affichage du code. Elle possède cinq variantes ayant différentes caractéristiques.
+
+![Les cinq variantes de la famille Monaspace](images/famille-monaspace.png)
 
 Voici quelques réglages pour bien l'utiliser:
 
@@ -42,10 +44,10 @@ https://github.com/microsoft/cascadia-code
 
 ## Fonte différente pour les commentaires
 
-Pour appliquer une **fonte différente** pour les commentaires (p.ex. Monaspace Radon), il faut plusieurs étapes:
+Pour appliquer une **fonte différente** pour les commentaires (p.ex. Monaspace Radon qui ressemble à l'écriture manuelle), il faut plusieurs étapes:
 
 - Installer l'extension [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css), car VS Code ne permet pas nativement de cibler deux familles de polices différentes par token. 
-- Créer un fichier custom.css qui contient un code comme ceci:
+- Créer un fichier `custom.css` qui contient un code comme ceci:
 
 ```css
 /* Commentaires en Monaspace Radon */
