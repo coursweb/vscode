@@ -12,7 +12,7 @@ Pour permettre à l'interface de faire des retours de ligne, il y a une commande
 
 ### Activer le Word Wrap de manière globale
 
-Si on souhaite changer ce comportement de manière permanente, on existe un réglage utilisateur.
+Si on souhaite changer ce comportement de manière permanente, il existe un réglage utilisateur.
 
 Dans *Préférences > Paramètres*, rechercher "Word Wrap", et mettre le réglage sur "on".
 

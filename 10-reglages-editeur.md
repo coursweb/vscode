@@ -35,10 +35,18 @@ On peut modifier les réglages de deux façons:
 1. À travers l'interface visuelle.
 2. Dans le code d'un fichier JSON.
 
+#### L'interface visuelle
+
 Pour l'interface visuelle: faire *Code > Préférences > Paramètres* (raccourci clavier: Cmd+virgule)
 
-![La palette des commandes](images/menu-preferences-parametres.png)
+![](images/menu-preferences-parametres.png)
 
+Cela ouvre la fenêtre des paramètres. On peut choisir entre l'onglet *Utilisateur* ou *Espace de travail*.
+
+![](images/vscode-parametres.pngg)
+
+
+#### Le fichier JSON
 
 Pour modifier les Réglages Utilisateur dans settings.json : 
 
@@ -48,10 +56,13 @@ Pour modifier les Réglages Utilisateur dans settings.json :
 
 ![La palette des commandes](images/palette-commandes.png)
 
+Si on veut ouvrir le JSON spécifique au workspace:
+
+![](images/vscode-json.png)
 
 ## Désactiver les références à MDN
 
-Par défaut, dans un fichier HTML, VSCode affiche des informations au survol d'un élément. Elles viennent du site MDN (Mozilla Developer Network), une ressource d'apprentissage.
+Par défaut, quand on édite un fichier HTML, VSCode affiche des informations au survol d'un élément. Elles viennent du site MDN (Mozilla Developer Network), une ressource d'apprentissage.
 
 ![Informations affichées au survol](images/mdn-references-in-vs-code.gif)
 
