@@ -37,3 +37,9 @@ La commande **Copier** (raccourci: cmd+C), si aucune sélection n'est active, va
 Pour voir la liste complète des raccourcis : 
 
 Les afficher avec *Code > Préférences > Raccourcis clavier* (cmd+K cmd+S). Cette fenêtre permet aussi de modifier des raccourcis.
+
+### Raccourcis à deux étapes
+
+Certains raccourcis sont composés de deux étapes. Pour "cmd+K cmd+S", il faut d'abord taper les touches "cmd+K", puis ensuite "cmd+S".
+
+![Interface des raccourcis clavier](images/raccourcis-clavier.png)
