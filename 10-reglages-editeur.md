@@ -43,7 +43,7 @@ Pour l'interface visuelle: faire *Code > Préférences > Paramètres* (raccourci
 
 Cela ouvre la fenêtre des paramètres. On peut choisir entre l'onglet *Utilisateur* ou *Espace de travail*.
 
-![](images/vscode-parametres.pngg)
+![](images/vscode-parametres.png)
 
 
 #### Le fichier JSON
