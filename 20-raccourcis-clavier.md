@@ -6,23 +6,30 @@ permalink: raccourcis-clavier.html
 
 VS Code comporte un grand nombre de raccourcis clavier, qui aident à un travail rapide et fluide.
 
-Voici quelques raccourcis spécialement utiles.
+Voici quelques raccourcis spécialement utiles:
+
+- **`Tab`** : Indentation
+- **`shift + Tab`** : Indentation à l'arrière
+- **`alt + Z`** : Activer/Désactiver le retour automatique à la ligne.
+- **`cmd + shift + 7`** (cela correspond à `⌘/`) : Toggle Comment(s) - Mise en commentaire du code sélectionné.
+
+- **`cmd + F`** : Rechercher (dans le document ouvert)
+- **`cmd + shift + F`** : Rechercher dans tout l'espace de travail
+- **`cmd + shift + H`** : Remplacer dans l'espace de travail
+
+- **`cmd + P`** : Permet d'atteindre un fichier dans l'espace de travail.
 
 **Command Palette**  
-Mac: ⇧⌘P, F1  
-Windows ou Linux: Ctrl+Shift+P ou F1
+- **`cmd + shift + P`**, ⇧⌘P, ou F1 : Ouvre la *Palette de commandes*, qui permet d'exécuter diverses commandes (par exemple: *Mettre le document en forme*).
+
+- **`cmd +`** : Zoom avant
+- **`cmd -`** : Zoom arrière
+- **`cmd + B`** : Activer/Désactiver le sidebar
+
 
 **Move Lines Up or Down**  
 Mac: ⌥↓ / ⌥↑  
 Windows or Linux: Alt+ ↓ / Alt+ ↑
-
-**Open Search Panel**  
-Mac: ⇧⌘F  
-Windows or Linux: Ctrl+Shift+F
-
-**Toggle Comment(s)**  
-Mac: ⌘/  
-Windows or Linux: Ctrl+/
 
 **Select All Occurrences**  
 Mac: ⇧⌘L  
